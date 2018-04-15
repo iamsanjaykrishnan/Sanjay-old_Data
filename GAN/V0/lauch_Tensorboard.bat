@@ -1,0 +1,1 @@
+tensorboard --logdir=E:\Tensorflow\GAN\V0\summary\
